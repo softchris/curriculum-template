@@ -1,0 +1,14 @@
+"""
+Simple requirements file for Chapter 1 solution.
+This chapter uses only Python standard library features to keep things beginner-friendly.
+"""
+
+# No external dependencies required for Chapter 1!
+# All examples use Python's built-in modules:
+# - datetime (for time handling)
+# - json (for data structure manipulation) 
+# - unittest (for testing)
+# - sys, os (for path management)
+
+# Python 3.7+ recommended for best compatibility
+# The code will work with Python 3.6+ but typing hints work better in 3.7+
